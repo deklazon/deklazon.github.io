@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1476202920
+#1477842715
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -77,7 +77,6 @@ icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
-channel.html
 Amazon-Web-App-API.min.js
 Amazon-Web-App-API-tester.min.js
 tizen-iap.js
